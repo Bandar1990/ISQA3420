@@ -1,0 +1,78 @@
+Use Case : Mange project information
+
+ 
+
+Title: Mange project information
+
+Primary Actor: Corporate Manager
+
+Goal in Context: Corporate Manager should to manage code information.
+
+Stakeholders: Corporate manager and corporate developer.
+
+Preconditions: The project file exists in the SPDX database.
+
+Main Success Scenario: Corporate manager obtains and manages project information.
+
+Failed End Conditions: Corporate manager is fails to manage project information.
+
+Trigger: Corporate manager wants to manage a project.
+
+Use Case: Determine License and Vulnerability Information
+
+¡  Title: Determine License and Vulnerability Information
+
+¡  Primary Actor: Corporate Manager
+
+¡  Goal in Context: The corporate manager is able to determine license and vulnerability information from provided project information
+
+¡  Stakeholders:
+
+¡  Corporate Manager: To receive clear and relevant project information
+
+¡  Corporate Developer: To provide the relevant file/package level information
+
+¡  Project Owner: To clearly understand corporate manager decisions to green/red light a project
+
+¡  Preconditions:
+
+¡  Relevant file/package information is in the SPDX database
+
+¡  Proper project information has been provided 
+
+¡  Main Success Scenario: Corporate manager receives accurate license and vulnerability information for the requested project packages
+
+¡  Failed End Conditions: Corporate manager receives inaccurate or invalid license and vulnerability information for the requested project packages
+
+¡  Trigger: Corporate manager uploads or identifies project information to which license and vulnerability information is provided
+
+ 
+
+Use Case: Manage code
+
+¡  Title: Manage code
+
+¡  Primary Actor: Corporate Manager and developer
+
+¡  Goal in Context: The corporate manager/developer is able to determine and manage code
+
+¡  Stakeholders:
+
+¡  Corporate Manager: To receive clear and relevant project information and code information
+
+¡  Corporate Developer: To provide the relevant file/package level information
+
+¡  Project Owner: To clearly understand corporate manager decisions to green/red light a project
+
+¡  Preconditions:
+
+¡  Relevant file/package information is available
+
+¡  Main Success Scenario: Corporate manager and developer receive accurate code information.
+
+¡  Failed End Conditions: Corporate manager receives inaccurate or invalid license and vulnerability information for the requested project packages
+
+¡  Trigger: Corporate manager and developer a file/package to manage code.
+
+ 
+ 
